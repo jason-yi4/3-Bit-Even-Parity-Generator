@@ -3,3 +3,5 @@ Full documentation of a 3-Bit Even Parity Generator built as a final project for
 
 ## Navigation
 For the full experimental design process report, see the [Experiement Design Report](Documentation/experimental_design.md).
+
+For a list of all materials used in this project, see the [Material List](Documentation/material_list.md).
