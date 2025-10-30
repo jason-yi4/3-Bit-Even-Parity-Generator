@@ -16,3 +16,7 @@ The circuit should generate a parity bit (green LED indicator) when the number o
 | 1 | 1 | 0 | 1 | 1 |
 
 ## Circuit Logic Diagram
+<img src="../Media/circuit%20configuration.png" alt="Circuit Logic Diagram" width="600">
+
+## Breadboard Documentation
+<img src="../Media/
