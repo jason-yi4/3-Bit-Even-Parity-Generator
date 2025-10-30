@@ -18,5 +18,6 @@ The circuit should generate a parity bit (green LED indicator) when the number o
 ## Circuit Logic Diagram
 <img src="../Media/circuit%20configuration.png" alt="Circuit Logic Diagram" width="600">
 
+
 ## Breadboard Documentation
-<img src="../Media/
+<img src="../Media/Annotated%20Breadboards.png" alt="Annotated Breadboard" width="800">
