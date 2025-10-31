@@ -1,7 +1,7 @@
 # Experimental Design & Process
 
 ## Summary
-The circuit should generate a parity bit (green LED indicator) when the number of bits active in the circuit is odd.
+The circuit generates a parity bit (green LED indicator) when the number of bits active in the circuit is odd.
 
 ## Theoretical Truth Table for Parity Generator
 | Input A | Input B | Output AB | Input C | Output ABC |
